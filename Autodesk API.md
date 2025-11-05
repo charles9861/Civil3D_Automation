@@ -73,6 +73,8 @@ Application.DocumentManager.MdiActiveDocument.Editor.WriteMessage("\nHello World
 ```
 You can now build the assembly and run it. Start Autodesk Civil 3D, and type NETLOAD at the command line. In the Choose .NET Assembly dialog, browse to your assembly DLL (if you are using the project settings from step 1, this will be GettingStarted.dll). Type HELLOWORLD at the command line, and you will see the command output:
 
+<div class="fig fignone" id="GUID-DE3A46DA-508E-43A0-8538-C77D978D06B2__WS73099CC142F48755-789C4B1E11D24BE26D7-6789"><img class="image" id="GUID-DE3A46DA-508E-43A0-8538-C77D978D06B2__IMAGE_59E0648759474C3BAE0909A6218524D9" width="200" height="81" src="https://help.autodesk.com/cloudhelp/2025/ENU/Civil3D-DevGuide/images/GUID-7516532E-A50A-423F-ACBD-14F0ABD674FA.png"></div>
+
 
 8. The previous step used functionality from the AutoCAD Application class. Let’s include some functionality specific to the Autodesk Civil 3D managed classes. First, add two more namespaces: Autodesk.AutoCAD.DatabaseServices and Autodesk.Civil.ApplicationServices. Then add these lines to obtain the current Civil document, get some basic information about it, and print the information out:
 
@@ -89,7 +91,9 @@ public void HelloWorld()
 
 ```
 
-Open or create a document in Autodesk Civil 3D that contains alignments and sites. When you run the HELLOWORLD command now, you should see output similar to this:
+Open or create a document in Autodesk Civil 3D that contains alignments and sites. When you run the **HELLOWORLD** command now, you should see output similar to this:
+
+<img class="image" id="GUID-DE3A46DA-508E-43A0-8538-C77D978D06B2__IMAGE_B2900E44A35946CAB56AE3E940B32F5C" width="371" height="104" src="https://help.autodesk.com/cloudhelp/2025/ENU/Civil3D-DevGuide/images/GUID-B47DAFFE-A802-462E-B2A2-780D920D4CA6.png">
 
 
 For more samples, look in the Autodesk Civil 3D\samples\dotNet director
