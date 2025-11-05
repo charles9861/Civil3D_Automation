@@ -5,7 +5,8 @@ This section describes the basic steps to set up a .NET solution using Visual St
 
 1. In Visual Studio 2010, create a new class library solution and project.
 
-
+<li class="li" id="GUID-DE3A46DA-508E-43A0-8538-C77D978D06B2__LI_B09E4A3CE59B4D76847C7E828771CECF">In Visual Studio 2010, create a new class library solution and project. <div class="fig fignone" id="GUID-DE3A46DA-508E-43A0-8538-C77D978D06B2__WS73099CC142F487557CB2BAEA11CFFB8ADB7-5745"><img class="image" id="GUID-DE3A46DA-508E-43A0-8538-C77D978D06B2__IMAGE_B74E4DDF1D09477AB4E05A057FA9B6C6" width="681" height="496" src="https://help.autodesk.com/cloudhelp/2025/ENU/Civil3D-DevGuide/images/GUID-55244302-FD96-4BC3-BA62-EF5717AAB99C.png"><p class="figcap">New Project Dialog in Visual Studio </p></div>
+ </li>
 
 New Project Dialog in Visual Studio
 
