@@ -150,5 +150,4 @@ You can do this directly inside Visual Studio or via GitHub Desktop.
 
 ---
 
-Would you like me to include an example next — for instance, **reading or modifying Civil 3D alignment data from your DLL** or **setting up a separate external app to talk to Civil 3D**?
-That would help tailor the next steps for your automation goals.
+
