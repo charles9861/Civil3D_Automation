@@ -1,5 +1,5 @@
-Absolutely — I can walk you through **setting up a Visual Studio project to work with the Autodesk Civil 3D API**, and then **linking it to a GitHub repository**.
-We’ll go step-by-step so it’s clear even if you’re new to Visual Studio.
+# A walk you through **setting up a Visual Studio project to work with the Autodesk Civil 3D API**, and then **linking it to a GitHub repository**.
+## We’ll go step-by-step so it’s clear even if you’re new to Visual Studio.
 
 ---
 
