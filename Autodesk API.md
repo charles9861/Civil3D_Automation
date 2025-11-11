@@ -11,7 +11,14 @@ This section describes the basic steps to set up a .NET solution using Visual St
 New Project Dialog in Visual Studio
 
 2. Select Project menu Add References, or right-click References in the Solution Explorer and select Add References.
-3. Browse to the install directory for Autodesk Civil 3D, and select the base libraries acdbmgd.dll, acmgd.dll, accoremgd.dll, AecBaseMgd.dll, and AeccDbMgd.dll.
+3. Browse to the install directory for Autodesk Civil 3D, and select the base libraries
+
+`acdbmgd.dll`, 
+`acmgd.dll`, 
+`accoremgd.dll`, 
+`AecBaseMgd.dll`, and 
+`AeccDbMgd.dll`.
+
 Note:
 These are the base AutoCAD and Autodesk Civil 3D managed libraries. Your .NET assembly can use classes defined in additional libraries.
 
